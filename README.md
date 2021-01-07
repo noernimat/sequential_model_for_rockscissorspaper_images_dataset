@@ -43,3 +43,14 @@ This dataset contains images of hand gestures from the Rock-Paper-Scissors game.
 	- The accuracy of the model is at least 90%. 
 	- Can predict the images uploaded to Colab. 
 
+## RESULTS
+
+![1](data_visualization/1.png) 					![2](data_visualization/2.png) 
+
+- The Accuracy and Validation accuracy reaches 99% and 98%. That means the models have success metrics.
+- The graph titled "Validation Training and Accuracy" that could see, the distance of training data and validation is close so that overfitting does not occur.
+
+**Image Prediction Output**
+
+![3](data_visualization/3.png)
+
